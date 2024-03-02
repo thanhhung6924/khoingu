@@ -17,4 +17,5 @@
   margin-top: 100px;
   margin-left: 100px;
   animation: spint 1s;
+  animation-iteration-count: 10;
 }
